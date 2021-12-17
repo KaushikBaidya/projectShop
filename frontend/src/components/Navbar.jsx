@@ -23,7 +23,8 @@ const Language = styled.span`
   cursor: pointer;
 `
 const SearchContainer = styled.div`
-  border: 1px solid gray;
+  border: 2px solid orange;
+  border-radius: 5px;
   display: flex;
   align-items: center;
   margin-left: 25px;
