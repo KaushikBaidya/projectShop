@@ -26,20 +26,20 @@ export const categories = [
   {
     id: 1,
     img:
-      'https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-    title: 'SHIRT STYLE!',
+      'https://images.unsplash.com/photo-1517456215183-9a2c3a748d0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGFubml2ZXJzYXJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    title: 'ANNIVERSARY!',
   },
   {
     id: 2,
     img:
-      'https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-    title: 'LOUNGEWEAR LOVE',
+      'https://images.unsplash.com/photo-1533294160622-d5fece3e080d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGJpcnRoZGF5JTIwcGFydHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+    title: 'BIRTHDAY',
   },
   {
     id: 3,
     img:
-      'https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-    title: 'LIGHT JACKETS',
+      'https://images.unsplash.com/photo-1608048608029-99c772d199ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGJpcnRoZGF5JTIwcGFydHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+    title: 'CUSTOMIZE',
   },
 ]
 
