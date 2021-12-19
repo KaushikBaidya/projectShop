@@ -1,7 +1,7 @@
 .topbar {
   width: 100%;
   height: 50px;
-  background-color: #30475e;
+  background-color: #2d4263;
   position: sticky;
   top: 0;
   z-index: 999;
@@ -35,12 +35,12 @@
 }
 
 .topIconBadge {
-  width: 15px;
-  height: 15px;
+  width: 18px;
+  height: 18px;
   position: absolute;
   top: -5px;
   right: 0px;
-  background-color: red;
+  background-color: #ec255a;
   color: white;
   border-radius: 50%;
   display: flex;
